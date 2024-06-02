@@ -1,0 +1,17 @@
+google-auth
+google-cloud-speech
+gtts
+openai
+pynput
+pydub
+PyAudio
+pytube
+requests
+scipy
+tensorflow
+torch
+whisper
+boto3
+jiwer
+python-dotenv
+
