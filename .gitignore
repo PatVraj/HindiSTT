@@ -1,2 +1,8 @@
 Code/key/
 .env
+Papers/
+Text/.DS_Store
+.DS_Store
+.metals/metals.log
+.metals/metals.mv.db
+.vscode/settings.json
