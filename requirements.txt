@@ -14,4 +14,3 @@ whisper
 boto3
 jiwer
 python-dotenv
-

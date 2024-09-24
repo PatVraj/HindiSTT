@@ -1,0 +1,737 @@
+2024-06-16 22:13:11,645 - INFO - ====== WebDriver manager ======
+2024-06-16 22:13:11,786 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:13:11,903 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:13:12,001 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 22:13:15,402 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-hoshiarpur-punjab
+2024-06-16 22:13:21,080 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-mathurapur-west-bengal
+2024-06-16 22:14:12,940 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-mathurapur-west-bengal: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102473a38 chromedriver + 4389432
+1   chromedriver                        0x000000010246c344 chromedriver + 4358980
+2   chromedriver                        0x0000000102088afc chromedriver + 281340
+3   chromedriver                        0x00000001020cb2c8 chromedriver + 553672
+4   chromedriver                        0x0000000102103cec chromedriver + 785644
+5   chromedriver                        0x00000001020bfed0 chromedriver + 507600
+6   chromedriver                        0x00000001020c08a8 chromedriver + 510120
+7   chromedriver                        0x000000010243b3bc chromedriver + 4158396
+8   chromedriver                        0x000000010243fe20 chromedriver + 4177440
+9   chromedriver                        0x000000010242107c chromedriver + 4051068
+10  chromedriver                        0x000000010244070c chromedriver + 4179724
+11  chromedriver                        0x000000010241407c chromedriver + 3997820
+12  chromedriver                        0x000000010245e0d4 chromedriver + 4301012
+13  chromedriver                        0x000000010245e250 chromedriver + 4301392
+14  chromedriver                        0x000000010246bf3c chromedriver + 4357948
+15  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 22:14:18,137 - INFO - ====== WebDriver manager ======
+2024-06-16 22:14:18,293 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:14:18,411 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:14:18,501 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 22:14:20,205 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-mathurapur-west-bengal
+2024-06-16 22:19:22,324 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-mathurapur-west-bengal: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000100ef7a38 chromedriver + 4389432
+1   chromedriver                        0x0000000100ef0344 chromedriver + 4358980
+2   chromedriver                        0x0000000100b0cafc chromedriver + 281340
+3   chromedriver                        0x0000000100af77bc chromedriver + 194492
+4   chromedriver                        0x0000000100af73b0 chromedriver + 193456
+5   chromedriver                        0x0000000100af5190 chromedriver + 184720
+6   chromedriver                        0x0000000100af5c44 chromedriver + 187460
+7   chromedriver                        0x0000000100b03fa4 chromedriver + 245668
+8   chromedriver                        0x0000000100b17088 chromedriver + 323720
+9   chromedriver                        0x0000000100af628c chromedriver + 189068
+10  chromedriver                        0x0000000100b16f3c chromedriver + 323388
+11  chromedriver                        0x0000000100b87c30 chromedriver + 785456
+12  chromedriver                        0x0000000100b43ed0 chromedriver + 507600
+13  chromedriver                        0x0000000100b448a8 chromedriver + 510120
+14  chromedriver                        0x0000000100ebf3bc chromedriver + 4158396
+15  chromedriver                        0x0000000100ec3e20 chromedriver + 4177440
+16  chromedriver                        0x0000000100ea507c chromedriver + 4051068
+17  chromedriver                        0x0000000100ec470c chromedriver + 4179724
+18  chromedriver                        0x0000000100e9807c chromedriver + 3997820
+19  chromedriver                        0x0000000100ee20d4 chromedriver + 4301012
+20  chromedriver                        0x0000000100ee2250 chromedriver + 4301392
+21  chromedriver                        0x0000000100eeff3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 22:19:27,554 - INFO - ====== WebDriver manager ======
+2024-06-16 22:19:27,765 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:19:27,879 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:19:27,976 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 22:19:29,639 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-mathurapur-west-bengal
+2024-06-16 22:24:29,666 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-mathurapur-west-bengal: Message: timeout: Timed out receiving message from renderer: 299.021
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x000000010288fa38 chromedriver + 4389432
+1   chromedriver                        0x0000000102888344 chromedriver + 4358980
+2   chromedriver                        0x00000001024a4afc chromedriver + 281340
+3   chromedriver                        0x000000010248f7bc chromedriver + 194492
+4   chromedriver                        0x000000010248f3b0 chromedriver + 193456
+5   chromedriver                        0x000000010248d190 chromedriver + 184720
+6   chromedriver                        0x000000010248dc44 chromedriver + 187460
+7   chromedriver                        0x000000010249bfa4 chromedriver + 245668
+8   chromedriver                        0x00000001024af088 chromedriver + 323720
+9   chromedriver                        0x000000010248e28c chromedriver + 189068
+10  chromedriver                        0x00000001024aef3c chromedriver + 323388
+11  chromedriver                        0x000000010251fe74 chromedriver + 786036
+12  chromedriver                        0x00000001024dbed0 chromedriver + 507600
+13  chromedriver                        0x00000001024dc8a8 chromedriver + 510120
+14  chromedriver                        0x00000001028573bc chromedriver + 4158396
+15  chromedriver                        0x000000010285be20 chromedriver + 4177440
+16  chromedriver                        0x000000010283d07c chromedriver + 4051068
+17  chromedriver                        0x000000010285c70c chromedriver + 4179724
+18  chromedriver                        0x000000010283007c chromedriver + 3997820
+19  chromedriver                        0x000000010287a0d4 chromedriver + 4301012
+20  chromedriver                        0x000000010287a250 chromedriver + 4301392
+21  chromedriver                        0x0000000102887f3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 22:24:34,856 - INFO - ====== WebDriver manager ======
+2024-06-16 22:24:35,001 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:24:35,110 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:24:35,210 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 22:24:36,939 - ERROR - Failed to process https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-mathurapur-west-bengal after multiple attempts
+2024-06-16 22:24:36,940 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-dumka-jharkhand
+2024-06-16 22:24:40,726 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-bansgaon-uttar-pradesh
+2024-06-16 22:29:40,793 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-bansgaon-uttar-pradesh: Message: timeout: Timed out receiving message from renderer: -0.010
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x000000010453fa38 chromedriver + 4389432
+1   chromedriver                        0x0000000104538344 chromedriver + 4358980
+2   chromedriver                        0x0000000104154afc chromedriver + 281340
+3   chromedriver                        0x000000010413f7bc chromedriver + 194492
+4   chromedriver                        0x000000010413f3b0 chromedriver + 193456
+5   chromedriver                        0x000000010413d190 chromedriver + 184720
+6   chromedriver                        0x000000010413dc44 chromedriver + 187460
+7   chromedriver                        0x000000010414bfa4 chromedriver + 245668
+8   chromedriver                        0x000000010415f088 chromedriver + 323720
+9   chromedriver                        0x000000010413e28c chromedriver + 189068
+10  chromedriver                        0x000000010415ef3c chromedriver + 323388
+11  chromedriver                        0x00000001041cfc30 chromedriver + 785456
+12  chromedriver                        0x000000010418bed0 chromedriver + 507600
+13  chromedriver                        0x000000010418c8a8 chromedriver + 510120
+14  chromedriver                        0x00000001045073bc chromedriver + 4158396
+15  chromedriver                        0x000000010450be20 chromedriver + 4177440
+16  chromedriver                        0x00000001044ed07c chromedriver + 4051068
+17  chromedriver                        0x000000010450c70c chromedriver + 4179724
+18  chromedriver                        0x00000001044e007c chromedriver + 3997820
+19  chromedriver                        0x000000010452a0d4 chromedriver + 4301012
+20  chromedriver                        0x000000010452a250 chromedriver + 4301392
+21  chromedriver                        0x0000000104537f3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 22:29:46,013 - INFO - ====== WebDriver manager ======
+2024-06-16 22:29:46,190 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:29:46,295 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:29:46,389 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 22:29:47,965 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-bansgaon-uttar-pradesh
+2024-06-16 22:34:47,973 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-bansgaon-uttar-pradesh: Message: timeout: Timed out receiving message from renderer: 298.602
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000102ef7a38 chromedriver + 4389432
+1   chromedriver                        0x0000000102ef0344 chromedriver + 4358980
+2   chromedriver                        0x0000000102b0cafc chromedriver + 281340
+3   chromedriver                        0x0000000102af77bc chromedriver + 194492
+4   chromedriver                        0x0000000102af73b0 chromedriver + 193456
+5   chromedriver                        0x0000000102af5190 chromedriver + 184720
+6   chromedriver                        0x0000000102af5c44 chromedriver + 187460
+7   chromedriver                        0x0000000102b03fa4 chromedriver + 245668
+8   chromedriver                        0x0000000102b17088 chromedriver + 323720
+9   chromedriver                        0x0000000102af628c chromedriver + 189068
+10  chromedriver                        0x0000000102b16f3c chromedriver + 323388
+11  chromedriver                        0x0000000102b87e74 chromedriver + 786036
+12  chromedriver                        0x0000000102b43ed0 chromedriver + 507600
+13  chromedriver                        0x0000000102b448a8 chromedriver + 510120
+14  chromedriver                        0x0000000102ebf3bc chromedriver + 4158396
+15  chromedriver                        0x0000000102ec3e20 chromedriver + 4177440
+16  chromedriver                        0x0000000102ea507c chromedriver + 4051068
+17  chromedriver                        0x0000000102ec470c chromedriver + 4179724
+18  chromedriver                        0x0000000102e9807c chromedriver + 3997820
+19  chromedriver                        0x0000000102ee20d4 chromedriver + 4301012
+20  chromedriver                        0x0000000102ee2250 chromedriver + 4301392
+21  chromedriver                        0x0000000102eeff3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 22:34:53,147 - INFO - ====== WebDriver manager ======
+2024-06-16 22:34:53,289 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:34:53,415 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:34:53,515 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 22:34:54,960 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-bansgaon-uttar-pradesh
+2024-06-16 22:39:54,966 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-bansgaon-uttar-pradesh: Message: timeout: Timed out receiving message from renderer: 299.192
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x00000001044fba38 chromedriver + 4389432
+1   chromedriver                        0x00000001044f4344 chromedriver + 4358980
+2   chromedriver                        0x0000000104110afc chromedriver + 281340
+3   chromedriver                        0x00000001040fb7bc chromedriver + 194492
+4   chromedriver                        0x00000001040fb3b0 chromedriver + 193456
+5   chromedriver                        0x00000001040f9190 chromedriver + 184720
+6   chromedriver                        0x00000001040f9c44 chromedriver + 187460
+7   chromedriver                        0x0000000104107fa4 chromedriver + 245668
+8   chromedriver                        0x000000010411b088 chromedriver + 323720
+9   chromedriver                        0x00000001040fa28c chromedriver + 189068
+10  chromedriver                        0x000000010411af3c chromedriver + 323388
+11  chromedriver                        0x000000010418be74 chromedriver + 786036
+12  chromedriver                        0x0000000104147ed0 chromedriver + 507600
+13  chromedriver                        0x00000001041488a8 chromedriver + 510120
+14  chromedriver                        0x00000001044c33bc chromedriver + 4158396
+15  chromedriver                        0x00000001044c7e20 chromedriver + 4177440
+16  chromedriver                        0x00000001044a907c chromedriver + 4051068
+17  chromedriver                        0x00000001044c870c chromedriver + 4179724
+18  chromedriver                        0x000000010449c07c chromedriver + 3997820
+19  chromedriver                        0x00000001044e60d4 chromedriver + 4301012
+20  chromedriver                        0x00000001044e6250 chromedriver + 4301392
+21  chromedriver                        0x00000001044f3f3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 22:40:00,147 - INFO - ====== WebDriver manager ======
+2024-06-16 22:40:00,287 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:40:00,397 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:40:00,501 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 22:40:01,722 - ERROR - Failed to process https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-bansgaon-uttar-pradesh after multiple attempts
+2024-06-16 22:40:01,726 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-karakat-bihar
+2024-06-16 22:45:01,736 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-karakat-bihar: Message: timeout: Timed out receiving message from renderer: 298.174
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000104c5fa38 chromedriver + 4389432
+1   chromedriver                        0x0000000104c58344 chromedriver + 4358980
+2   chromedriver                        0x0000000104874afc chromedriver + 281340
+3   chromedriver                        0x000000010485f7bc chromedriver + 194492
+4   chromedriver                        0x000000010485f3b0 chromedriver + 193456
+5   chromedriver                        0x000000010485d190 chromedriver + 184720
+6   chromedriver                        0x000000010485dc44 chromedriver + 187460
+7   chromedriver                        0x000000010486bfa4 chromedriver + 245668
+8   chromedriver                        0x000000010487f088 chromedriver + 323720
+9   chromedriver                        0x000000010485e28c chromedriver + 189068
+10  chromedriver                        0x000000010487ef3c chromedriver + 323388
+11  chromedriver                        0x00000001048efe74 chromedriver + 786036
+12  chromedriver                        0x00000001048abed0 chromedriver + 507600
+13  chromedriver                        0x00000001048ac8a8 chromedriver + 510120
+14  chromedriver                        0x0000000104c273bc chromedriver + 4158396
+15  chromedriver                        0x0000000104c2be20 chromedriver + 4177440
+16  chromedriver                        0x0000000104c0d07c chromedriver + 4051068
+17  chromedriver                        0x0000000104c2c70c chromedriver + 4179724
+18  chromedriver                        0x0000000104c0007c chromedriver + 3997820
+19  chromedriver                        0x0000000104c4a0d4 chromedriver + 4301012
+20  chromedriver                        0x0000000104c4a250 chromedriver + 4301392
+21  chromedriver                        0x0000000104c57f3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 22:45:06,961 - INFO - ====== WebDriver manager ======
+2024-06-16 22:45:07,113 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:45:07,255 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:45:07,367 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 22:45:08,601 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-karakat-bihar
+2024-06-16 22:50:08,612 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-karakat-bihar: Message: timeout: Timed out receiving message from renderer: 297.945
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000101403a38 chromedriver + 4389432
+1   chromedriver                        0x00000001013fc344 chromedriver + 4358980
+2   chromedriver                        0x0000000101018afc chromedriver + 281340
+3   chromedriver                        0x00000001010037bc chromedriver + 194492
+4   chromedriver                        0x00000001010033b0 chromedriver + 193456
+5   chromedriver                        0x0000000101001190 chromedriver + 184720
+6   chromedriver                        0x0000000101001c44 chromedriver + 187460
+7   chromedriver                        0x000000010100ffa4 chromedriver + 245668
+8   chromedriver                        0x0000000101023088 chromedriver + 323720
+9   chromedriver                        0x000000010100228c chromedriver + 189068
+10  chromedriver                        0x0000000101022f3c chromedriver + 323388
+11  chromedriver                        0x0000000101093e74 chromedriver + 786036
+12  chromedriver                        0x000000010104fed0 chromedriver + 507600
+13  chromedriver                        0x00000001010508a8 chromedriver + 510120
+14  chromedriver                        0x00000001013cb3bc chromedriver + 4158396
+15  chromedriver                        0x00000001013cfe20 chromedriver + 4177440
+16  chromedriver                        0x00000001013b107c chromedriver + 4051068
+17  chromedriver                        0x00000001013d070c chromedriver + 4179724
+18  chromedriver                        0x00000001013a407c chromedriver + 3997820
+19  chromedriver                        0x00000001013ee0d4 chromedriver + 4301012
+20  chromedriver                        0x00000001013ee250 chromedriver + 4301392
+21  chromedriver                        0x00000001013fbf3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 22:50:13,822 - INFO - ====== WebDriver manager ======
+2024-06-16 22:50:13,964 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:50:14,067 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:50:14,160 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 22:50:15,441 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-karakat-bihar
+2024-06-16 22:55:15,456 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-karakat-bihar: Message: timeout: Timed out receiving message from renderer: 298.406
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000101407a38 chromedriver + 4389432
+1   chromedriver                        0x0000000101400344 chromedriver + 4358980
+2   chromedriver                        0x000000010101cafc chromedriver + 281340
+3   chromedriver                        0x00000001010077bc chromedriver + 194492
+4   chromedriver                        0x00000001010073b0 chromedriver + 193456
+5   chromedriver                        0x0000000101005190 chromedriver + 184720
+6   chromedriver                        0x0000000101005c44 chromedriver + 187460
+7   chromedriver                        0x0000000101013fa4 chromedriver + 245668
+8   chromedriver                        0x0000000101027088 chromedriver + 323720
+9   chromedriver                        0x000000010100628c chromedriver + 189068
+10  chromedriver                        0x0000000101026f3c chromedriver + 323388
+11  chromedriver                        0x0000000101097e74 chromedriver + 786036
+12  chromedriver                        0x0000000101053ed0 chromedriver + 507600
+13  chromedriver                        0x00000001010548a8 chromedriver + 510120
+14  chromedriver                        0x00000001013cf3bc chromedriver + 4158396
+15  chromedriver                        0x00000001013d3e20 chromedriver + 4177440
+16  chromedriver                        0x00000001013b507c chromedriver + 4051068
+17  chromedriver                        0x00000001013d470c chromedriver + 4179724
+18  chromedriver                        0x00000001013a807c chromedriver + 3997820
+19  chromedriver                        0x00000001013f20d4 chromedriver + 4301012
+20  chromedriver                        0x00000001013f2250 chromedriver + 4301392
+21  chromedriver                        0x00000001013fff3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 22:55:20,663 - INFO - ====== WebDriver manager ======
+2024-06-16 22:55:20,805 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:55:20,920 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 22:55:21,019 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 22:55:22,116 - ERROR - Failed to process https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-karakat-bihar after multiple attempts
+2024-06-16 22:55:22,118 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-shirmaur-shimla-himachal-pradesh
+2024-06-16 23:00:22,128 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-shirmaur-shimla-himachal-pradesh: Message: timeout: Timed out receiving message from renderer: 299.006
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000102dbfa38 chromedriver + 4389432
+1   chromedriver                        0x0000000102db8344 chromedriver + 4358980
+2   chromedriver                        0x00000001029d4afc chromedriver + 281340
+3   chromedriver                        0x00000001029bf7bc chromedriver + 194492
+4   chromedriver                        0x00000001029bf3b0 chromedriver + 193456
+5   chromedriver                        0x00000001029bd190 chromedriver + 184720
+6   chromedriver                        0x00000001029bdc44 chromedriver + 187460
+7   chromedriver                        0x00000001029cbfa4 chromedriver + 245668
+8   chromedriver                        0x00000001029df088 chromedriver + 323720
+9   chromedriver                        0x00000001029be28c chromedriver + 189068
+10  chromedriver                        0x00000001029def3c chromedriver + 323388
+11  chromedriver                        0x0000000102a4fe74 chromedriver + 786036
+12  chromedriver                        0x0000000102a0bed0 chromedriver + 507600
+13  chromedriver                        0x0000000102a0c8a8 chromedriver + 510120
+14  chromedriver                        0x0000000102d873bc chromedriver + 4158396
+15  chromedriver                        0x0000000102d8be20 chromedriver + 4177440
+16  chromedriver                        0x0000000102d6d07c chromedriver + 4051068
+17  chromedriver                        0x0000000102d8c70c chromedriver + 4179724
+18  chromedriver                        0x0000000102d6007c chromedriver + 3997820
+19  chromedriver                        0x0000000102daa0d4 chromedriver + 4301012
+20  chromedriver                        0x0000000102daa250 chromedriver + 4301392
+21  chromedriver                        0x0000000102db7f3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:00:27,319 - INFO - ====== WebDriver manager ======
+2024-06-16 23:00:27,458 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:00:27,567 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:00:27,663 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:00:28,891 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-shirmaur-shimla-himachal-pradesh
+2024-06-16 23:05:28,889 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-shirmaur-shimla-himachal-pradesh: Message: timeout: Timed out receiving message from renderer: 299.012
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000104a2ba38 chromedriver + 4389432
+1   chromedriver                        0x0000000104a24344 chromedriver + 4358980
+2   chromedriver                        0x0000000104640afc chromedriver + 281340
+3   chromedriver                        0x000000010462b7bc chromedriver + 194492
+4   chromedriver                        0x000000010462b3b0 chromedriver + 193456
+5   chromedriver                        0x0000000104629190 chromedriver + 184720
+6   chromedriver                        0x0000000104629c44 chromedriver + 187460
+7   chromedriver                        0x0000000104637fa4 chromedriver + 245668
+8   chromedriver                        0x000000010464b088 chromedriver + 323720
+9   chromedriver                        0x000000010462a28c chromedriver + 189068
+10  chromedriver                        0x000000010464af3c chromedriver + 323388
+11  chromedriver                        0x00000001046bbe74 chromedriver + 786036
+12  chromedriver                        0x0000000104677ed0 chromedriver + 507600
+13  chromedriver                        0x00000001046788a8 chromedriver + 510120
+14  chromedriver                        0x00000001049f33bc chromedriver + 4158396
+15  chromedriver                        0x00000001049f7e20 chromedriver + 4177440
+16  chromedriver                        0x00000001049d907c chromedriver + 4051068
+17  chromedriver                        0x00000001049f870c chromedriver + 4179724
+18  chromedriver                        0x00000001049cc07c chromedriver + 3997820
+19  chromedriver                        0x0000000104a160d4 chromedriver + 4301012
+20  chromedriver                        0x0000000104a16250 chromedriver + 4301392
+21  chromedriver                        0x0000000104a23f3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:05:34,085 - INFO - ====== WebDriver manager ======
+2024-06-16 23:05:34,224 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:05:34,323 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:05:34,417 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:05:35,638 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-shirmaur-shimla-himachal-pradesh
+2024-06-16 23:10:35,644 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-shirmaur-shimla-himachal-pradesh: Message: timeout: Timed out receiving message from renderer: 299.136
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000102663a38 chromedriver + 4389432
+1   chromedriver                        0x000000010265c344 chromedriver + 4358980
+2   chromedriver                        0x0000000102278afc chromedriver + 281340
+3   chromedriver                        0x00000001022637bc chromedriver + 194492
+4   chromedriver                        0x00000001022633b0 chromedriver + 193456
+5   chromedriver                        0x0000000102261190 chromedriver + 184720
+6   chromedriver                        0x0000000102261c44 chromedriver + 187460
+7   chromedriver                        0x000000010226ffa4 chromedriver + 245668
+8   chromedriver                        0x0000000102283088 chromedriver + 323720
+9   chromedriver                        0x000000010226228c chromedriver + 189068
+10  chromedriver                        0x0000000102282f3c chromedriver + 323388
+11  chromedriver                        0x00000001022f3e74 chromedriver + 786036
+12  chromedriver                        0x00000001022afed0 chromedriver + 507600
+13  chromedriver                        0x00000001022b08a8 chromedriver + 510120
+14  chromedriver                        0x000000010262b3bc chromedriver + 4158396
+15  chromedriver                        0x000000010262fe20 chromedriver + 4177440
+16  chromedriver                        0x000000010261107c chromedriver + 4051068
+17  chromedriver                        0x000000010263070c chromedriver + 4179724
+18  chromedriver                        0x000000010260407c chromedriver + 3997820
+19  chromedriver                        0x000000010264e0d4 chromedriver + 4301012
+20  chromedriver                        0x000000010264e250 chromedriver + 4301392
+21  chromedriver                        0x000000010265bf3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:10:40,870 - INFO - ====== WebDriver manager ======
+2024-06-16 23:10:41,013 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:10:41,134 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:10:41,230 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:10:42,510 - ERROR - Failed to process https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-shirmaur-shimla-himachal-pradesh after multiple attempts
+2024-06-16 23:10:42,514 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-pm-modi-s-speech-at-public-meeting-in-bhiwani-mahendragarh-haryana
+2024-06-16 23:15:42,517 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-pm-modi-s-speech-at-public-meeting-in-bhiwani-mahendragarh-haryana: Message: timeout: Timed out receiving message from renderer: 299.020
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000102537a38 chromedriver + 4389432
+1   chromedriver                        0x0000000102530344 chromedriver + 4358980
+2   chromedriver                        0x000000010214cafc chromedriver + 281340
+3   chromedriver                        0x00000001021377bc chromedriver + 194492
+4   chromedriver                        0x00000001021373b0 chromedriver + 193456
+5   chromedriver                        0x0000000102135190 chromedriver + 184720
+6   chromedriver                        0x0000000102135c44 chromedriver + 187460
+7   chromedriver                        0x0000000102143fa4 chromedriver + 245668
+8   chromedriver                        0x0000000102157088 chromedriver + 323720
+9   chromedriver                        0x000000010213628c chromedriver + 189068
+10  chromedriver                        0x0000000102156f3c chromedriver + 323388
+11  chromedriver                        0x00000001021c7e74 chromedriver + 786036
+12  chromedriver                        0x0000000102183ed0 chromedriver + 507600
+13  chromedriver                        0x00000001021848a8 chromedriver + 510120
+14  chromedriver                        0x00000001024ff3bc chromedriver + 4158396
+15  chromedriver                        0x0000000102503e20 chromedriver + 4177440
+16  chromedriver                        0x00000001024e507c chromedriver + 4051068
+17  chromedriver                        0x000000010250470c chromedriver + 4179724
+18  chromedriver                        0x00000001024d807c chromedriver + 3997820
+19  chromedriver                        0x00000001025220d4 chromedriver + 4301012
+20  chromedriver                        0x0000000102522250 chromedriver + 4301392
+21  chromedriver                        0x000000010252ff3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:15:47,696 - INFO - ====== WebDriver manager ======
+2024-06-16 23:15:47,839 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:15:47,956 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:15:48,051 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:15:49,286 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-pm-modi-s-speech-at-public-meeting-in-bhiwani-mahendragarh-haryana
+2024-06-16 23:16:10,464 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-basti-uttar-pradesh
+2024-06-16 23:21:10,468 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-basti-uttar-pradesh: Message: timeout: Timed out receiving message from renderer: -0.002
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000102507a38 chromedriver + 4389432
+1   chromedriver                        0x0000000102500344 chromedriver + 4358980
+2   chromedriver                        0x000000010211cafc chromedriver + 281340
+3   chromedriver                        0x00000001021077bc chromedriver + 194492
+4   chromedriver                        0x00000001021073b0 chromedriver + 193456
+5   chromedriver                        0x0000000102105190 chromedriver + 184720
+6   chromedriver                        0x0000000102105c44 chromedriver + 187460
+7   chromedriver                        0x0000000102113fa4 chromedriver + 245668
+8   chromedriver                        0x0000000102127088 chromedriver + 323720
+9   chromedriver                        0x000000010210628c chromedriver + 189068
+10  chromedriver                        0x0000000102126f3c chromedriver + 323388
+11  chromedriver                        0x0000000102197c30 chromedriver + 785456
+12  chromedriver                        0x0000000102153ed0 chromedriver + 507600
+13  chromedriver                        0x00000001021548a8 chromedriver + 510120
+14  chromedriver                        0x00000001024cf3bc chromedriver + 4158396
+15  chromedriver                        0x00000001024d3e20 chromedriver + 4177440
+16  chromedriver                        0x00000001024b507c chromedriver + 4051068
+17  chromedriver                        0x00000001024d470c chromedriver + 4179724
+18  chromedriver                        0x00000001024a807c chromedriver + 3997820
+19  chromedriver                        0x00000001024f20d4 chromedriver + 4301012
+20  chromedriver                        0x00000001024f2250 chromedriver + 4301392
+21  chromedriver                        0x00000001024fff3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:21:15,704 - INFO - ====== WebDriver manager ======
+2024-06-16 23:21:15,852 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:21:15,969 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:21:16,070 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:21:17,275 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-basti-uttar-pradesh
+2024-06-16 23:26:18,329 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-basti-uttar-pradesh: Message: timeout: Timed out receiving message from renderer: 300.000
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000100f4fa38 chromedriver + 4389432
+1   chromedriver                        0x0000000100f48344 chromedriver + 4358980
+2   chromedriver                        0x0000000100b64afc chromedriver + 281340
+3   chromedriver                        0x0000000100b4f7bc chromedriver + 194492
+4   chromedriver                        0x0000000100b4f3b0 chromedriver + 193456
+5   chromedriver                        0x0000000100b4d190 chromedriver + 184720
+6   chromedriver                        0x0000000100b4dc44 chromedriver + 187460
+7   chromedriver                        0x0000000100b5bfa4 chromedriver + 245668
+8   chromedriver                        0x0000000100b6f088 chromedriver + 323720
+9   chromedriver                        0x0000000100b4e28c chromedriver + 189068
+10  chromedriver                        0x0000000100b6ef3c chromedriver + 323388
+11  chromedriver                        0x0000000100bdfc30 chromedriver + 785456
+12  chromedriver                        0x0000000100b9bed0 chromedriver + 507600
+13  chromedriver                        0x0000000100b9c8a8 chromedriver + 510120
+14  chromedriver                        0x0000000100f173bc chromedriver + 4158396
+15  chromedriver                        0x0000000100f1be20 chromedriver + 4177440
+16  chromedriver                        0x0000000100efd07c chromedriver + 4051068
+17  chromedriver                        0x0000000100f1c70c chromedriver + 4179724
+18  chromedriver                        0x0000000100ef007c chromedriver + 3997820
+19  chromedriver                        0x0000000100f3a0d4 chromedriver + 4301012
+20  chromedriver                        0x0000000100f3a250 chromedriver + 4301392
+21  chromedriver                        0x0000000100f47f3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:26:23,514 - INFO - ====== WebDriver manager ======
+2024-06-16 23:26:23,653 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:26:23,755 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:26:23,852 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:26:25,050 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-basti-uttar-pradesh
+2024-06-16 23:31:25,059 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-basti-uttar-pradesh: Message: timeout: Timed out receiving message from renderer: 299.156
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000104893a38 chromedriver + 4389432
+1   chromedriver                        0x000000010488c344 chromedriver + 4358980
+2   chromedriver                        0x00000001044a8afc chromedriver + 281340
+3   chromedriver                        0x00000001044937bc chromedriver + 194492
+4   chromedriver                        0x00000001044933b0 chromedriver + 193456
+5   chromedriver                        0x0000000104491190 chromedriver + 184720
+6   chromedriver                        0x0000000104491c44 chromedriver + 187460
+7   chromedriver                        0x000000010449ffa4 chromedriver + 245668
+8   chromedriver                        0x00000001044b3088 chromedriver + 323720
+9   chromedriver                        0x000000010449228c chromedriver + 189068
+10  chromedriver                        0x00000001044b2f3c chromedriver + 323388
+11  chromedriver                        0x0000000104523e74 chromedriver + 786036
+12  chromedriver                        0x00000001044dfed0 chromedriver + 507600
+13  chromedriver                        0x00000001044e08a8 chromedriver + 510120
+14  chromedriver                        0x000000010485b3bc chromedriver + 4158396
+15  chromedriver                        0x000000010485fe20 chromedriver + 4177440
+16  chromedriver                        0x000000010484107c chromedriver + 4051068
+17  chromedriver                        0x000000010486070c chromedriver + 4179724
+18  chromedriver                        0x000000010483407c chromedriver + 3997820
+19  chromedriver                        0x000000010487e0d4 chromedriver + 4301012
+20  chromedriver                        0x000000010487e250 chromedriver + 4301392
+21  chromedriver                        0x000000010488bf3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:31:30,274 - INFO - ====== WebDriver manager ======
+2024-06-16 23:31:30,415 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:31:30,524 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:31:30,617 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:31:31,998 - ERROR - Failed to process https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-basti-uttar-pradesh after multiple attempts
+2024-06-16 23:31:31,998 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-maharajganj-bihar
+2024-06-16 23:36:32,004 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-maharajganj-bihar: Message: timeout: Timed out receiving message from renderer: 299.000
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000102567a38 chromedriver + 4389432
+1   chromedriver                        0x0000000102560344 chromedriver + 4358980
+2   chromedriver                        0x000000010217cafc chromedriver + 281340
+3   chromedriver                        0x00000001021677bc chromedriver + 194492
+4   chromedriver                        0x00000001021673b0 chromedriver + 193456
+5   chromedriver                        0x0000000102165190 chromedriver + 184720
+6   chromedriver                        0x0000000102165c44 chromedriver + 187460
+7   chromedriver                        0x0000000102173fa4 chromedriver + 245668
+8   chromedriver                        0x0000000102187088 chromedriver + 323720
+9   chromedriver                        0x000000010216628c chromedriver + 189068
+10  chromedriver                        0x0000000102186f3c chromedriver + 323388
+11  chromedriver                        0x00000001021f7e74 chromedriver + 786036
+12  chromedriver                        0x00000001021b3ed0 chromedriver + 507600
+13  chromedriver                        0x00000001021b48a8 chromedriver + 510120
+14  chromedriver                        0x000000010252f3bc chromedriver + 4158396
+15  chromedriver                        0x0000000102533e20 chromedriver + 4177440
+16  chromedriver                        0x000000010251507c chromedriver + 4051068
+17  chromedriver                        0x000000010253470c chromedriver + 4179724
+18  chromedriver                        0x000000010250807c chromedriver + 3997820
+19  chromedriver                        0x00000001025520d4 chromedriver + 4301012
+20  chromedriver                        0x0000000102552250 chromedriver + 4301392
+21  chromedriver                        0x000000010255ff3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:36:37,162 - INFO - ====== WebDriver manager ======
+2024-06-16 23:36:37,310 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:36:37,433 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:36:37,528 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:36:38,750 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-maharajganj-bihar
+2024-06-16 23:41:38,750 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-maharajganj-bihar: Message: timeout: Timed out receiving message from renderer: 299.166
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000102b33a38 chromedriver + 4389432
+1   chromedriver                        0x0000000102b2c344 chromedriver + 4358980
+2   chromedriver                        0x0000000102748afc chromedriver + 281340
+3   chromedriver                        0x00000001027337bc chromedriver + 194492
+4   chromedriver                        0x00000001027333b0 chromedriver + 193456
+5   chromedriver                        0x0000000102731190 chromedriver + 184720
+6   chromedriver                        0x0000000102731c44 chromedriver + 187460
+7   chromedriver                        0x000000010273ffa4 chromedriver + 245668
+8   chromedriver                        0x0000000102753088 chromedriver + 323720
+9   chromedriver                        0x000000010273228c chromedriver + 189068
+10  chromedriver                        0x0000000102752f3c chromedriver + 323388
+11  chromedriver                        0x00000001027c3e74 chromedriver + 786036
+12  chromedriver                        0x000000010277fed0 chromedriver + 507600
+13  chromedriver                        0x00000001027808a8 chromedriver + 510120
+14  chromedriver                        0x0000000102afb3bc chromedriver + 4158396
+15  chromedriver                        0x0000000102affe20 chromedriver + 4177440
+16  chromedriver                        0x0000000102ae107c chromedriver + 4051068
+17  chromedriver                        0x0000000102b0070c chromedriver + 4179724
+18  chromedriver                        0x0000000102ad407c chromedriver + 3997820
+19  chromedriver                        0x0000000102b1e0d4 chromedriver + 4301012
+20  chromedriver                        0x0000000102b1e250 chromedriver + 4301392
+21  chromedriver                        0x0000000102b2bf3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:41:43,916 - INFO - ====== WebDriver manager ======
+2024-06-16 23:41:44,056 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:41:44,165 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:41:44,265 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:41:45,475 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-maharajganj-bihar
+2024-06-16 23:46:45,479 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-maharajganj-bihar: Message: timeout: Timed out receiving message from renderer: 299.183
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000102e4ba38 chromedriver + 4389432
+1   chromedriver                        0x0000000102e44344 chromedriver + 4358980
+2   chromedriver                        0x0000000102a60afc chromedriver + 281340
+3   chromedriver                        0x0000000102a4b7bc chromedriver + 194492
+4   chromedriver                        0x0000000102a4b3b0 chromedriver + 193456
+5   chromedriver                        0x0000000102a49190 chromedriver + 184720
+6   chromedriver                        0x0000000102a49c44 chromedriver + 187460
+7   chromedriver                        0x0000000102a57fa4 chromedriver + 245668
+8   chromedriver                        0x0000000102a6b088 chromedriver + 323720
+9   chromedriver                        0x0000000102a4a28c chromedriver + 189068
+10  chromedriver                        0x0000000102a6af3c chromedriver + 323388
+11  chromedriver                        0x0000000102adbe74 chromedriver + 786036
+12  chromedriver                        0x0000000102a97ed0 chromedriver + 507600
+13  chromedriver                        0x0000000102a988a8 chromedriver + 510120
+14  chromedriver                        0x0000000102e133bc chromedriver + 4158396
+15  chromedriver                        0x0000000102e17e20 chromedriver + 4177440
+16  chromedriver                        0x0000000102df907c chromedriver + 4051068
+17  chromedriver                        0x0000000102e1870c chromedriver + 4179724
+18  chromedriver                        0x0000000102dec07c chromedriver + 3997820
+19  chromedriver                        0x0000000102e360d4 chromedriver + 4301012
+20  chromedriver                        0x0000000102e36250 chromedriver + 4301392
+21  chromedriver                        0x0000000102e43f3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:46:50,689 - INFO - ====== WebDriver manager ======
+2024-06-16 23:46:50,833 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:46:50,966 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:46:51,076 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:46:52,317 - ERROR - Failed to process https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modis-speech-at-public-meeting-in-maharajganj-bihar after multiple attempts
+2024-06-16 23:46:52,320 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-dhenkanal-odisha
+2024-06-16 23:51:52,325 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-dhenkanal-odisha: Message: timeout: Timed out receiving message from renderer: 299.248
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x00000001047ffa38 chromedriver + 4389432
+1   chromedriver                        0x00000001047f8344 chromedriver + 4358980
+2   chromedriver                        0x0000000104414afc chromedriver + 281340
+3   chromedriver                        0x00000001043ff7bc chromedriver + 194492
+4   chromedriver                        0x00000001043ff3b0 chromedriver + 193456
+5   chromedriver                        0x00000001043fd190 chromedriver + 184720
+6   chromedriver                        0x00000001043fdc44 chromedriver + 187460
+7   chromedriver                        0x000000010440bfa4 chromedriver + 245668
+8   chromedriver                        0x000000010441f088 chromedriver + 323720
+9   chromedriver                        0x00000001043fe28c chromedriver + 189068
+10  chromedriver                        0x000000010441ef3c chromedriver + 323388
+11  chromedriver                        0x000000010448fe74 chromedriver + 786036
+12  chromedriver                        0x000000010444bed0 chromedriver + 507600
+13  chromedriver                        0x000000010444c8a8 chromedriver + 510120
+14  chromedriver                        0x00000001047c73bc chromedriver + 4158396
+15  chromedriver                        0x00000001047cbe20 chromedriver + 4177440
+16  chromedriver                        0x00000001047ad07c chromedriver + 4051068
+17  chromedriver                        0x00000001047cc70c chromedriver + 4179724
+18  chromedriver                        0x00000001047a007c chromedriver + 3997820
+19  chromedriver                        0x00000001047ea0d4 chromedriver + 4301012
+20  chromedriver                        0x00000001047ea250 chromedriver + 4301392
+21  chromedriver                        0x00000001047f7f3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:51:57,487 - INFO - ====== WebDriver manager ======
+2024-06-16 23:51:57,629 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:51:57,754 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:51:57,857 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:51:59,095 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-dhenkanal-odisha
+2024-06-16 23:56:59,100 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-dhenkanal-odisha: Message: timeout: Timed out receiving message from renderer: 299.128
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000102d47a38 chromedriver + 4389432
+1   chromedriver                        0x0000000102d40344 chromedriver + 4358980
+2   chromedriver                        0x000000010295cafc chromedriver + 281340
+3   chromedriver                        0x00000001029477bc chromedriver + 194492
+4   chromedriver                        0x00000001029473b0 chromedriver + 193456
+5   chromedriver                        0x0000000102945190 chromedriver + 184720
+6   chromedriver                        0x0000000102945c44 chromedriver + 187460
+7   chromedriver                        0x0000000102953fa4 chromedriver + 245668
+8   chromedriver                        0x0000000102967088 chromedriver + 323720
+9   chromedriver                        0x000000010294628c chromedriver + 189068
+10  chromedriver                        0x0000000102966f3c chromedriver + 323388
+11  chromedriver                        0x00000001029d7e74 chromedriver + 786036
+12  chromedriver                        0x0000000102993ed0 chromedriver + 507600
+13  chromedriver                        0x00000001029948a8 chromedriver + 510120
+14  chromedriver                        0x0000000102d0f3bc chromedriver + 4158396
+15  chromedriver                        0x0000000102d13e20 chromedriver + 4177440
+16  chromedriver                        0x0000000102cf507c chromedriver + 4051068
+17  chromedriver                        0x0000000102d1470c chromedriver + 4179724
+18  chromedriver                        0x0000000102ce807c chromedriver + 3997820
+19  chromedriver                        0x0000000102d320d4 chromedriver + 4301012
+20  chromedriver                        0x0000000102d32250 chromedriver + 4301392
+21  chromedriver                        0x0000000102d3ff3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-16 23:57:04,320 - INFO - ====== WebDriver manager ======
+2024-06-16 23:57:04,458 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:57:04,575 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-16 23:57:04,683 - INFO - Driver [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61/chromedriver-mac-arm64/chromedriver] found in cache
+2024-06-16 23:57:06,072 - INFO - Processing URL: https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-dhenkanal-odisha
+2024-06-17 00:02:06,091 - ERROR - Error processing https://www.narendramodi.in/hi/text-of-prime-minister-narendra-modi-s-speech-at-public-meeting-in-dhenkanal-odisha: Message: timeout: Timed out receiving message from renderer: 298.588
+  (Session info: chrome=126.0.6478.61)
+Stacktrace:
+0   chromedriver                        0x0000000102ccfa38 chromedriver + 4389432
+1   chromedriver                        0x0000000102cc8344 chromedriver + 4358980
+2   chromedriver                        0x00000001028e4afc chromedriver + 281340
+3   chromedriver                        0x00000001028cf7bc chromedriver + 194492
+4   chromedriver                        0x00000001028cf3b0 chromedriver + 193456
+5   chromedriver                        0x00000001028cd190 chromedriver + 184720
+6   chromedriver                        0x00000001028cdc44 chromedriver + 187460
+7   chromedriver                        0x00000001028dbfa4 chromedriver + 245668
+8   chromedriver                        0x00000001028ef088 chromedriver + 323720
+9   chromedriver                        0x00000001028ce28c chromedriver + 189068
+10  chromedriver                        0x00000001028eef3c chromedriver + 323388
+11  chromedriver                        0x000000010295fe74 chromedriver + 786036
+12  chromedriver                        0x000000010291bed0 chromedriver + 507600
+13  chromedriver                        0x000000010291c8a8 chromedriver + 510120
+14  chromedriver                        0x0000000102c973bc chromedriver + 4158396
+15  chromedriver                        0x0000000102c9be20 chromedriver + 4177440
+16  chromedriver                        0x0000000102c7d07c chromedriver + 4051068
+17  chromedriver                        0x0000000102c9c70c chromedriver + 4179724
+18  chromedriver                        0x0000000102c7007c chromedriver + 3997820
+19  chromedriver                        0x0000000102cba0d4 chromedriver + 4301012
+20  chromedriver                        0x0000000102cba250 chromedriver + 4301392
+21  chromedriver                        0x0000000102cc7f3c chromedriver + 4357948
+22  libsystem_pthread.dylib             0x0000000188bfe2e4 _pthread_start + 136
+23  libsystem_pthread.dylib             0x0000000188bf90fc thread_start + 8
+
+2024-06-17 00:02:11,255 - INFO - ====== WebDriver manager ======
+2024-06-17 00:02:11,392 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-17 00:02:11,524 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-17 00:02:11,634 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-17 00:02:11,874 - INFO - WebDriver version 126.0.6478.61 selected
+2024-06-17 00:02:11,877 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.61/mac-arm64/chromedriver-mac-arm64.zip
+2024-06-17 00:02:11,877 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/126.0.6478.61/mac-arm64/chromedriver-mac-arm64.zip
+2024-06-17 00:02:12,059 - INFO - Driver downloading response is 200
+2024-06-17 00:02:12,361 - INFO - Get LATEST chromedriver version for google-chrome
+2024-06-17 00:02:12,688 - INFO - Driver has been saved in cache [/Users/vrajpatel/.wdm/drivers/chromedriver/mac64/126.0.6478.61]
